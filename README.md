@@ -1,4 +1,4 @@
-# Real-Time Face & Smile Detector 🙂
+# Real-Time Face & Smile Detector 
 
 A Computer Vision project built using Python and OpenCV.
 
@@ -14,3 +14,4 @@ A Computer Vision project built using Python and OpenCV.
 ## Requirements
 * Python 3.x
 * OpenCV
+
