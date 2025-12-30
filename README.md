@@ -1,1 +1,0 @@
-# Face-Smile-Detector-OpenCV
